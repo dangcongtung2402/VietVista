@@ -1,0 +1,22 @@
+export const languages = [
+  { code: 'vi', countryCode: 'vn', name: 'Vietnamese', nativeName: 'Tiếng Việt', continueText: 'Tiếp tục' },
+  { code: 'en', countryCode: 'gb', name: 'English', nativeName: 'English', continueText: 'Continue' },
+  { code: 'zh', countryCode: 'cn', name: 'Chinese', nativeName: '中文', continueText: '继续' },
+  { code: 'ja', countryCode: 'jp', name: 'Japanese', nativeName: '日本語', continueText: '続ける' },
+  { code: 'ko', countryCode: 'kr', name: 'Korean', nativeName: '한국어', continueText: '계속' },
+  { code: 'fr', countryCode: 'fr', name: 'French', nativeName: 'Français', continueText: 'Continuer' },
+  { code: 'de', countryCode: 'de', name: 'German', nativeName: 'Deutsch', continueText: 'Weiter' },
+  { code: 'es', countryCode: 'es', name: 'Spanish', nativeName: 'Español', continueText: 'Continuar' },
+  { code: 'pt', countryCode: 'pt', name: 'Portuguese', nativeName: 'Português', continueText: 'Continuar' },
+  { code: 'it', countryCode: 'it', name: 'Italian', nativeName: 'Italiano', continueText: 'Continua' },
+  { code: 'ru', countryCode: 'ru', name: 'Russian', nativeName: 'Русский', continueText: 'Продолжить' },
+  { code: 'th', countryCode: 'th', name: 'Thai', nativeName: 'ไทย', continueText: 'ต่อไป' },
+  { code: 'id', countryCode: 'id', name: 'Indonesian', nativeName: 'Bahasa Indonesia', continueText: 'Lanjutkan' },
+  { code: 'ms', countryCode: 'my', name: 'Malay', nativeName: 'Bahasa Melayu', continueText: 'Teruskan' },
+  { code: 'hi', countryCode: 'in', name: 'Hindi', nativeName: 'हिन्दी', continueText: 'जारी रखें' },
+  { code: 'ar', countryCode: 'sa', name: 'Arabic', nativeName: 'العربية', continueText: 'متابعة' },
+  { code: 'tr', countryCode: 'tr', name: 'Turkish', nativeName: 'Türkçe', continueText: 'Devam et' },
+  { code: 'nl', countryCode: 'nl', name: 'Dutch', nativeName: 'Nederlands', continueText: 'Doorgaan' },
+  { code: 'pl', countryCode: 'pl', name: 'Polish', nativeName: 'Polski', continueText: 'Kontynuuj' },
+  { code: 'sv', countryCode: 'se', name: 'Swedish', nativeName: 'Svenska', continueText: 'Fortsätt' }
+];
